@@ -54,7 +54,7 @@ import java.util.LinkedList;
 import java.util.List;
 
 public class AndroidAppZonePublisher extends Notifier {
-    public static final String DEFAULT_APPSERVER = "https://appzone.xxxx.com/api/";
+    public static final String DEFAULT_APPSERVER = "https://ios.ilegendsoft.com/api/";
 
     private static final String TAG = "[AppZone] ";
 
